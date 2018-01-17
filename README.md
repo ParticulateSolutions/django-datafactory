@@ -6,7 +6,7 @@
 
 There are just two steps needed to install django-datafactory:
 
-1. Install django-paydirekt to your virtual env:
+1. Install django-datafactory to your virtual env:
 
 	```bash
 	pip install django-datafactory
