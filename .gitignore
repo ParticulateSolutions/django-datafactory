@@ -90,3 +90,4 @@ ENV/
 .idea
 sqlite.db
 venv3
+.pypirc
